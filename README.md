@@ -10,10 +10,9 @@ A static frontend clone of the Spotify web interface built using **HTML** and **
 - 🎵 Now playing bar (static)
 - 💻 Responsive layout for desktop screens (basic mobile responsiveness included)
 
-## 📸 Screenshots
+## 🔗 Live Demo
 
-### 🎵 Home Page
-![Home Page](assets/home.png)
+👉 [Click here to view](https://gulshan31-08-24.github.io/Spotify-Clone/)
 
 ## 🛠️ Technologies Used
 
