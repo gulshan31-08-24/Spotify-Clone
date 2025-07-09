@@ -13,7 +13,7 @@ A static frontend clone of the Spotify web interface built using **HTML** and **
 ## 📸 Screenshots
 
 ### 🎵 Home Page
-![Home Page](assets/screenshots/home.png)
+![Home Page](assets/home.png)
 
 ## 🛠️ Technologies Used
 
